@@ -1,6 +1,6 @@
 ﻿<table align="center" border="0"><tr><td align="center" width="9999">
 
-# DeepFaceLab  
+# DeepFaceLab Linux
 
 
 <a href="https://arxiv.org/abs/2005.05535">
