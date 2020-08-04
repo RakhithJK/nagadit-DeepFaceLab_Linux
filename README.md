@@ -11,16 +11,16 @@ https://arxiv.org/abs/2005.05535</a>
 
 ### the leading software for creating deepfakes
 
-<img src="doc/DFL_welcome.png" align="center">
+<img src="scripts/DFL_welcome.png" align="center">
 
 </td></tr>
 <tr><td align="center" width="9999">
 
 <p align="center">
 
-![](doc/logo_cuda.png)
-![](doc/logo_tensorflow.png)
-![](doc/logo_python.png)
+![](scripts/logo_cuda.png)
+![](scripts/logo_tensorflow.png)
+![](scripts/logo_python.png)
 
 </p>
 
@@ -28,13 +28,13 @@ More than 95% of deepfake videos are created with DeepFaceLab.
 
 DeepFaceLab is used by such popular youtube channels as
 
-|![](doc/youtube_icon.png) [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g)|![](doc/youtube_icon.png) [VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|
+|![](scripts/youtube_icon.png) [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g)|![](scripts/youtube_icon.png) [VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|
 |---|---|
 
-|![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|
+|![](scripts/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|![](scripts/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](scripts/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|
 |---|---|---|
 
-|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|![](doc/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|
+|![](scripts/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|![](scripts/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|
 |---|---|
 
 </td></tr>
@@ -47,7 +47,7 @@ DeepFaceLab is used by such popular youtube channels as
 
 ## Replace the face
 
-<img src="doc/replace_the_face.png" align="center">
+<img src="scripts/replace_the_face.png" align="center">
 
 </td></tr>
 <tr><td align="center" width="9999">
@@ -58,18 +58,18 @@ DeepFaceLab is used by such popular youtube channels as
 
 <tr><td align="center" width="9999">
 
-<img src="doc/deage_0_1.jpg" align="center">
+<img src="scripts/deage_0_1.jpg" align="center">
 
 </td>
 <td align="center" width="9999">
 
-<img src="doc/deage_0_2.jpg" align="center">
+<img src="scripts/deage_0_2.jpg" align="center">
 
 </td></tr>
 
 <tr><td colspan=2  align="center" width="9999">
 
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=Ddx5B-84ebo
+![](scripts/youtube_icon.png) https://www.youtube.com/watch?v=Ddx5B-84ebo
 
 </td></tr>
 </table>
@@ -82,52 +82,52 @@ DeepFaceLab is used by such popular youtube channels as
 
 <tr><td align="center" width="9999">
 
-<img src="doc/head_replace_0_1.jpg" align="center">
+<img src="scripts/head_replace_0_1.jpg" align="center">
 
 </td>
 <td align="center" width="9999">
 
-<img src="doc/head_replace_0_2.jpg" align="center">
+<img src="scripts/head_replace_0_2.jpg" align="center">
 
 </td></tr>
 
 <tr ><td colspan=2  align="center" width="9999">
 
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=xr5FHd0AdlQ
+![](scripts/youtube_icon.png) https://www.youtube.com/watch?v=xr5FHd0AdlQ
 
 </td></tr>
 
 <tr><td align="center" width="9999">
 
-<img src="doc/head_replace_1_1.jpg" align="center">
+<img src="scripts/head_replace_1_1.jpg" align="center">
 
 </td>
 <td align="center" width="9999">
 
-<img src="doc/head_replace_1_2.jpg" align="center">
+<img src="scripts/head_replace_1_2.jpg" align="center">
 
 </td></tr>
 
 <tr ><td colspan=2  align="center" width="9999">
 
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=RTjgkhMugVw
+![](scripts/youtube_icon.png) https://www.youtube.com/watch?v=RTjgkhMugVw
 
 </td></tr>
 
 <tr><td align="center" width="9999">
 
-<img src="doc/head_replace_2_1.jpg" align="center">
+<img src="scripts/head_replace_2_1.jpg" align="center">
 
 </td>
 <td align="center" width="9999">
 
-<img src="doc/head_replace_2_2.jpg" align="center">
+<img src="scripts/head_replace_2_2.jpg" align="center">
 
 </td></tr>
 
 <tr ><td colspan=2  align="center" width="9999">
 
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=R9f7WD0gKPo
+![](scripts/youtube_icon.png) https://www.youtube.com/watch?v=R9f7WD0gKPo
 
 </td></tr>
 
@@ -140,9 +140,9 @@ DeepFaceLab is used by such popular youtube channels as
 
 ## Change the lip movement of politicians*
 
-<img src="doc/political_speech.jpg" align="center">
+<img src="scripts/political_speech.jpg" align="center">
 
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=2Z1oA3GYPaY
+![](scripts/youtube_icon.png) https://www.youtube.com/watch?v=2Z1oA3GYPaY
 
 \* also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*
 </td></tr>
@@ -153,12 +153,12 @@ DeepFaceLab is used by such popular youtube channels as
 </td></tr>
 <tr><td align="center" width="9999">
 
-<img src="doc/deepfake_progress.png" align="center">
+<img src="scripts/deepfake_progress.png" align="center">
 
 </td></tr>
 <tr><td align="center" width="9999">
 
-<img src="doc/make_everything_ok.png" align="center">
+<img src="scripts/make_everything_ok.png" align="center">
 
 Unfortunately, there is no "make everything ok" button in DeepFaceLab. You should spend time studying the workflow and growing your skills. A skill in programs such as *AfterEffects* or *Davince Resolve* is also desirable.
 
@@ -169,7 +169,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 <a href="https://www.youtube.com/watch?v=1smpMsfC3ls">
 
-<img src="doc/mini_tutorial.jpg" align="center">
+<img src="scripts/mini_tutorial.jpg" align="center">
 
 </a>
 
@@ -228,7 +228,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 ||[Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
 ||[Donate via Yandex.Money](https://money.yandex.ru/to/41001142318065)|
 ||bitcoin:bc1qkhh7h0gwwhxgg6h6gpllfgstkd645fefrd5s6z|
-|Alipay 捐款|![](doc/Alipay_donation.jpg)|
+|Alipay 捐款|![](scripts/Alipay_donation.jpg)|
 |||
 |Last donations|-|
 |||
@@ -247,19 +247,19 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 <td align="center" width="9999">
 
-<img src="doc/meme1.jpg" align="center">
+<img src="scripts/meme1.jpg" align="center">
 
 </td>
 
 <td align="center" width="9999">
 
-<img src="doc/meme2.jpg" align="center">
+<img src="scripts/meme2.jpg" align="center">
 
 </td> </tr>
 
 <tr>
 <td colspan=2>
-<img src="doc/meme3.jpg" align="center">
+<img src="scripts/meme3.jpg" align="center">
 
 </td>
 </tr>
