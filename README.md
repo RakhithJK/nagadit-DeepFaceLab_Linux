@@ -25,7 +25,7 @@ After creating and activating the environment, you will need to clone the repo a
 ```bash
 conda create -n deepfacelab -c main python=3.6.8 cudnn=7.6.5 cudatoolkit=10.0.130
 conda activate deepfacelab
-git clone https://github.com/lbfs/DeepFaceLab_Linux.git
+git clone https://github.com/nagadit/DeepFaceLab_Linux.git
 cd DeepFaceLab_Linux
 git clone https://github.com/iperov/DeepFaceLab.git
 python -m pip install -r ./DeepFaceLab/requirements-cuda.txt
