@@ -13,7 +13,7 @@ If you are here, then you already have everything...
 Just run it in the terminal.
 
 ```bash
- conda create -n deepfacelab -c main python=3.7 cudnn=7.6.5 cudatoolkit=10.0.130
+ conda create -n deepfacelab -c main python=3.7 cudnn=7.6.5 cudatoolkit=10.1.243
  conda activate deepfacelab
  git clone https://github.com/nagadit/DeepFaceLab_Linux.git
  cd DeepFaceLab_Linux
