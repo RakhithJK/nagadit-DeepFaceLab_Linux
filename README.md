@@ -12,6 +12,8 @@ If you are here, then you already have everything...
 
 Just run it in the terminal.
 
+Check latest cudnn and cudatoolkit version for your GPU device.
+
 ```bash
  conda create -n deepfacelab -c main python=3.7 cudnn=7.6.5 cudatoolkit=10.1.243
  conda activate deepfacelab
